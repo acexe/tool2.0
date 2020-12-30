@@ -1,3 +1,5 @@
+__autor__ = '@alexis.z40'
+
 import socket
 from colorama import *
 import time
